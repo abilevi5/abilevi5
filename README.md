@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abilevi5
-- 👀 I’m interested in accelerator physics, high energy physics, and quantum computing, machine learning, and just physics in general!
-- 🌱 I’m currently learning about machine learning, accelerator physics, particle physics, and quantum computing
+- 👀 Master's thesis in accelerator physics, now I'm a PhD student working on electronic structure / quantum chemistry
+- 🌱 I’m currently learning about machine learning, quantum chemistry (specifically Hartree Fock methods), Julia
 - 💞️ I’m looking to collaborate on machine learning based projects
 - 📫 How to reach me ...
 
