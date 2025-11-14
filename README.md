@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abilevi5
 - 👀 Master's thesis in accelerator physics, now I'm a PhD student working on electronic structure / quantum chemistry
-- 🌱 I’m currently learning about machine learning, quantum chemistry (specifically Hartree Fock methods), Julia
+- 🌱 I’m currently learning about machine learning, quantum chemistry (specifically post-Hartree Fock methods), Julia
 - 💞️ I’m looking to collaborate on machine learning based projects
 - 📫 How to reach me ...
 
